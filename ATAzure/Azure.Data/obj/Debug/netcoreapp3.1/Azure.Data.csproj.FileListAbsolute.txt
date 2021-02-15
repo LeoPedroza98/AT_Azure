@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\ATAzure\Azure.Data\bin\Debug\netcoreapp3.1\Azure.Data.deps.json
+C:\Users\leona\source\repos\ATAzure\Azure.Data\bin\Debug\netcoreapp3.1\Azure.Data.dll
+C:\Users\leona\source\repos\ATAzure\Azure.Data\obj\Debug\netcoreapp3.1\Azure.Data.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\ATAzure\Azure.Data\obj\Debug\netcoreapp3.1\Azure.Data.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ATAzure\Azure.Data\obj\Debug\netcoreapp3.1\Azure.Data.AssemblyInfo.cs
+C:\Users\leona\source\repos\ATAzure\Azure.Data\obj\Debug\netcoreapp3.1\Azure.Data.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ATAzure\Azure.Data\bin\Debug\netcoreapp3.1\Azure.Data.runtimeconfig.json
+C:\Users\leona\source\repos\ATAzure\Azure.Data\bin\Debug\netcoreapp3.1\Azure.Data.runtimeconfig.dev.json
+C:\Users\leona\source\repos\ATAzure\Azure.Data\bin\Debug\netcoreapp3.1\Azure.Domain.dll
+C:\Users\leona\source\repos\ATAzure\Azure.Data\bin\Debug\netcoreapp3.1\Azure.Domain.pdb
+C:\Users\leona\source\repos\ATAzure\Azure.Data\obj\Debug\netcoreapp3.1\Azure.Data.csproj.CopyComplete
+C:\Users\leona\source\repos\ATAzure\Azure.Data\obj\Debug\netcoreapp3.1\Azure.Data.genruntimeconfig.cache
+C:\Users\leona\source\repos\ATAzure\Azure.Data\bin\Debug\netcoreapp3.1\Azure.Data.pdb
+C:\Users\leona\source\repos\ATAzure\Azure.Data\obj\Debug\netcoreapp3.1\Azure.Data.dll
+C:\Users\leona\source\repos\ATAzure\Azure.Data\obj\Debug\netcoreapp3.1\Azure.Data.pdb

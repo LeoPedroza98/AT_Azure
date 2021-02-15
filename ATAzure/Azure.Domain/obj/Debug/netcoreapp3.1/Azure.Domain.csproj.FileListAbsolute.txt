@@ -1,0 +1,9 @@
+C:\Users\leona\source\repos\ATAzure\Azure.Domain\bin\Debug\netcoreapp3.1\Azure.Domain.deps.json
+C:\Users\leona\source\repos\ATAzure\Azure.Domain\bin\Debug\netcoreapp3.1\Azure.Domain.dll
+C:\Users\leona\source\repos\ATAzure\Azure.Domain\bin\Debug\netcoreapp3.1\Azure.Domain.pdb
+C:\Users\leona\source\repos\ATAzure\Azure.Domain\obj\Debug\netcoreapp3.1\Azure.Domain.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\ATAzure\Azure.Domain\obj\Debug\netcoreapp3.1\Azure.Domain.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ATAzure\Azure.Domain\obj\Debug\netcoreapp3.1\Azure.Domain.AssemblyInfo.cs
+C:\Users\leona\source\repos\ATAzure\Azure.Domain\obj\Debug\netcoreapp3.1\Azure.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ATAzure\Azure.Domain\obj\Debug\netcoreapp3.1\Azure.Domain.dll
+C:\Users\leona\source\repos\ATAzure\Azure.Domain\obj\Debug\netcoreapp3.1\Azure.Domain.pdb
